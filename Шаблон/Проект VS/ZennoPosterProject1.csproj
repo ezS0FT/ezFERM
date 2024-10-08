@@ -46,9 +46,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ezf, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\..\..\..\..\..\Program Files\macdev\ezf.dll</HintPath>
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="ezf">
+      <HintPath>..\..\..\..\VS\ezFERM\bin\Debug\ezf.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
